@@ -9,11 +9,13 @@
 2. 尝试 ping 通控制器 IP，确保在同一网段下。
 
 ## 2. 文件说明
-1. demo.py: 程序运行入口。
+1. demo.py: 程序运行入口。  
+   
 2. dobot_api.py：根据机器人TCP/IP远程控制方案（https://github.com/Dobot-Arm/TCP-IP-Protocol）自行修改。
 
 ## 3. 运行Demo
-方法一: 需要检测搜索到动态库，需在**VsCode**中打开整个目录，再直接运行 demo.py。
+方法一: 需要检测搜索到动态库，需在**VsCode**中打开整个目录，再直接运行 demo.py。  
+
 方法二: 需要检测搜索到动态库，需在**PyCharm**中打开整个目录，再直接运行 demo.py。
 
 ## 4. 测试环境
@@ -36,11 +38,13 @@
 
 
 ## 2. File description
-1. demo.py: The entry point of the program.
+1. demo.py: The entry point of the program.  
+   
 2. dobot_api.py: According to the robot TCP/IP remote control scheme (https://github.com/Dobot-Arm/TCP-IP-Protocol), modify it by yourself.
 
 ## 3. Run Demo
-Method 1: If you need to detect and search the dynamic library, you need to open the entire directory in **VsCode**, and then run demo.py directly.
+Method 1: If you need to detect and search the dynamic library, you need to open the entire directory in **VsCode**, and then run demo.py directly.  
+
 Method 2: To detect and search the dynamic library, you need to open the entire directory in **PyCharm**, and then run demo.py directly.
 
 ## 4. Test environment
